@@ -1,1 +1,1 @@
-Hello # project-code-something
+ # project-code-something
